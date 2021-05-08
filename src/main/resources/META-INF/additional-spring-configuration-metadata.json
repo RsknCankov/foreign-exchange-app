@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "rates.default-scale",
+      "type": "java.lang.Integer",
+      "description": "Default scale for currency rate calculations."
+    }
+  ]
+}
